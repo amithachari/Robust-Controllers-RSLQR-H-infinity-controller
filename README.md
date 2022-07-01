@@ -8,8 +8,8 @@ Robust Controllers Design and Comparative Analysis (RSLQR &amp; H-infinity contr
 
 ## Acceleration Step Response
 
-![image](https://user-images.githubusercontent.com/64373075/176831534-401c5e37-b6d9-4b0d-a6ca-f8585b40262c.png)
+![image](https://user-images.githubusercontent.com/64373075/176831837-8956eb6b-5c00-452f-9737-0e3bf3682ac9.png)
 
 ### Stability Robustness check using Small Gain Theorem
 
-![image](https://user-images.githubusercontent.com/64373075/176831627-81949f08-9c92-439d-b91a-1486f0c281db.png)
+![image](https://user-images.githubusercontent.com/64373075/176831889-5b887b03-f72b-4df5-b15c-10f62bc5e4ed.png)
